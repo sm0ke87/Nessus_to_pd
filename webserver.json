@@ -1,0 +1,240 @@
+{
+    "vulnerabilities": [
+      {
+        "count": 13,
+        "plugin_family": "Port scanners",
+        "plugin_id": 11219,
+        "plugin_name": "Nessus SYN scanner",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 13,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      },
+      {
+        "count": 13,
+        "plugin_family": "Service detection",
+        "plugin_id": 22964,
+        "plugin_name": "Service Detection",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 13,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      },
+      {
+        "count": 8,
+        "plugin_family": "Web Servers",
+        "plugin_id": 10107,
+        "plugin_name": "HTTP Server Type and Version",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 8,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      },
+      {
+        "count": 7,
+        "plugin_family": "Web Servers",
+        "plugin_id": 10386,
+        "plugin_name": "Web Server No 404 Error Code Check",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 7,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      },
+      {
+        "count": 7,
+        "plugin_family": "Web Servers",
+        "plugin_id": 24260,
+        "plugin_name": "HyperText Transfer Protocol (HTTP) Information",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 7,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      },
+      {
+        "count": 6,
+        "plugin_family": "General",
+        "plugin_id": 21643,
+        "plugin_name": "SSL Cipher Suites Supported",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 6,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      },
+      {
+        "count": 6,
+        "plugin_family": "General",
+        "plugin_id": 56984,
+        "plugin_name": "SSL / TLS Versions Supported",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 6,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      },
+      {
+        "count": 6,
+        "plugin_family": "Service detection",
+        "plugin_id": 138330,
+        "plugin_name": "TLS Version 1.3 Protocol Detection",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 6,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      },
+      {
+        "count": 1,
+        "plugin_family": "General",
+        "plugin_id": 10287,
+        "plugin_name": "Traceroute Information",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 1,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      },
+      {
+        "count": 1,
+        "plugin_family": "General",
+        "plugin_id": 10919,
+        "plugin_name": "Open Port Re-check",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 1,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      },
+      {
+        "count": 1,
+        "plugin_family": "Settings",
+        "plugin_id": 19506,
+        "plugin_name": "Nessus Scan Information",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 1,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      },
+      {
+        "count": 1,
+        "plugin_family": "General",
+        "plugin_id": 50350,
+        "plugin_name": "OS Identification Failed",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 1,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      },
+      {
+        "count": 1,
+        "plugin_family": "Web Servers",
+        "plugin_id": 84502,
+        "plugin_name": "HSTS Missing From HTTPS Server",
+        "vulnerability_state": "Active",
+        "accepted_count": 0,
+        "recasted_count": 0,
+        "counts_by_severity": [
+          {
+            "count": 1,
+            "value": 0
+          }
+        ],
+        "cvss_base_score": 0,
+        "cvss3_base_score": 0,
+        "severity": 0
+      }
+    ],
+    "total_vulnerability_count": 71,
+    "total_asset_count": 0
+  }
