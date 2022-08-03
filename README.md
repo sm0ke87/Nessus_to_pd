@@ -27,7 +27,7 @@ Source:
 
 ## Concept
 It's not production script, it's only for understanding how to push alerts from file to PD. So you can use it for basic script.
-https://github.com/sm0ke87/Nessus_to_pd
+
 ## Usage
 Enter events v2 API integration key
 
